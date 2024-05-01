@@ -1,5 +1,3 @@
-Hello dear python dev!
-
 This repository is supposed to act as a playground for your submission.
 
 Before getting started, please make sure use this repository as a **template** and create your own **public** repository, on which you will commit and push your code regularly. 
